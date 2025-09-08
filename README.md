@@ -45,15 +45,7 @@
 
 ---
 
-### 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Harsh722004&show_icons=true&theme=react&count_private=true" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harsh722004&theme=react" alt="GitHub Streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh722004&layout=compact&theme=react" alt="Top Languages" />
-</p>
 
 ---
 
