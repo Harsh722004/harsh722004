@@ -8,7 +8,7 @@
 \<h3 align="center"\>A Passionate Full Stack Web Developer & CS Enthusiast\</h3\>
 
 \<p align="center"\>
-\<img src="[https://readme-typing-svg.demolab.com?font=Fira+Code\&size=24\&pause=1000\&center=true\&vCenter=true\&width=435\&lines=Full+Stack+Web+Developer;MERN+Stack+Expert;Competitive+Programmer](https://www.google.com/search?q=https://readme-typing-svg.demolab.com%3Ffont%3DFira%2BCode%26size%3D24%26pause%3D1000%26center%3Dtrue%26vCenter%3Dtrue%26width%3D435%26lines%3DFull%2BStack%2BWeb%2BDeveloper%3BMERN%2BStack%2BExpert%3BCompetitive%2BProgrammer)" alt="Typing SVG" /\>
+\<img src="[https://readme-typing-svg.demolab.com?font=Fira+Code\&size=24\&pause=1000\&center=true\&vCenter=true\&width=435\&lines=Full+Stack+Web+Developer;MERN+Stack+Expert;Competitive+Programmer](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Full+Stack+Web+Developer;MERN+Stack+Expert;Competitive+Programmer)" alt="Typing SVG" /\>
 \</p\>
 
 -----
@@ -61,17 +61,3 @@
 \<p align="center"\>
 \<img src="[https://quotes-github-readme.vercel.app/api?type=horizontal\&theme=radical](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)" alt="Quote" /\>
 \</p\>
-
------
-
-### Key Changes:
-
-1.  **H3 Title:** Added **"& CS Enthusiast"** to reflect the C++ and DSA skills.
-2.  **Typing SVG:** Replaced "Open Source Contributor" with **"Competitive Programmer"** (or another suitable DSA/C++ related term).
-3.  **About Me:**
-      * Added a line about **C++** and **DSA** foundation.
-      * Updated "currently working on" to include **Competitive Programming**.
-      * Updated "Ask me about" to include **SQL/NoSQL Databases** and **DSA concepts**.
-4.  **Tech Stack:**
-      * Created a new category: **"Core Languages & Fundamentals"** to highlight **C++** and **DSA**.
-      * Updated the **"Databases"** section to include a badge for generic **SQL**.
