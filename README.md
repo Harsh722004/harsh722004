@@ -1,67 +1,74 @@
+-----
 ## Hi there 👋
 
-<!-- Profile README by Harsh Deshwal -->
+\<h1 align="center"\>Hi 👋, I'm Harsh Deshwal\</h1\>
+\<h3 align="center"\>A Passionate Full Stack Web Developer & CS Enthusiast\</h3\>
 
-<h1 align="center">Hi 👋, I'm Harsh Deshwal</h1>
-<h3 align="center">A Passionate Full Stack Web Developer</h3>
+\<p align="center"\>
+\<img src="[https://readme-typing-svg.demolab.com?font=Fira+Code\&size=24\&pause=1000\&center=true\&vCenter=true\&width=435\&lines=Full+Stack+Web+Developer;MERN+Stack+Expert;Competitive+Programmer](https://www.google.com/search?q=https://readme-typing-svg.demolab.com%3Ffont%3DFira%2BCode%26size%3D24%26pause%3D1000%26center%3Dtrue%26vCenter%3Dtrue%26width%3D435%26lines%3DFull%2BStack%2BWeb%2BDeveloper%3BMERN%2BStack%2BExpert%3BCompetitive%2BProgrammer)" alt="Typing SVG" /\>
+\</p\>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Full+Stack+Web+Developer;MERN+Stack+Expert;Open+Source+Contributor" alt="Typing SVG" />
-</p>
-
----
+-----
 
 ### 🔥 About Me
 
-- 🔭 I’m currently working on **MERN Stack Projects**
-- 🌱 I’m currently learning **TypeScript, Next.js & DevOps**
-- 💬 Ask me about **MERN Stack, REST APIs, JavaScript, React**
-- 📫 How to reach me: **harshdeshwal722004@gmail.com**
-- ⚡ Fun fact: **I turn ☕ into code and bugs into features**
+  - 💻 I specialize in the **MERN** stack, building end-to-end, scalable web applications.
+  - 🧠 I have a strong foundation in **Computer Science fundamentals** including **C++** and **Data Structures & Algorithms (DSA)**.
+  - 🔭 I’m currently working on **MERN Stack Projects** and **Competitive Programming** challenges.
+  - 🌱 I’m currently learning **TypeScript, Next.js & DevOps**.
+  - 💬 Ask me about **MERN Stack, REST APIs, SQL/NoSQL Databases,** or **DSA concepts**.
+  - 📫 How to reach me: **harshdeshwal722004@gmail.com**
+  - ⚡ Fun fact: **I turn ☕ into code and bugs into features**
 
----
+-----
 
 ### 🛠️ Tech Stack
 
-#### 💻 Languages
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+#### 💻 Core Languages & Fundamentals
 
-#### 🌐 Frontend
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
+| Category | Badges |
+| :--- | :--- |
+| **Foundational** |    |
+| **CS Core** |   |
 
-#### 🛠 Backend & DB
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+#### 🌐 Web Development (MERN)
+
+| Category | Badges |
+| :--- | :--- |
+| **Frontend** |   |
+| **Backend** |   |
+| **Databases** |   |
 
 #### ⚙️ Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VSCode](https://img.shields.io/badge/VS%20Code-0078D4?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
----
-
-
-
----
+-----
 
 ### 📫 Connect With Me
 
-<p align="left">
-  <a href="mailto:harshdeshwal722004@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/harshdeshwal722004/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/Harsh722004"><img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" /></a>
-</p>
+\<p align="left"\>
+\<a href="mailto:harshdeshwal722004@gmail.com"\>\<img src="[https://img.shields.io/badge/Gmail-D14836?style=flat-square\&logo=gmail\&logoColor=white](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)" /\>\</a\>
+\<a href="[https://www.linkedin.com/in/harshdeshwal722004/](https://www.linkedin.com/in/harshdeshwal722004/)"\>\<img src="[https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square\&logo=linkedin\&logoColor=white](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)" /\>\</a\>
+\<a href="[https://github.com/Harsh722004](https://github.com/Harsh722004)"\>\<img src="[https://img.shields.io/badge/GitHub-100000?style=flat-square\&logo=github\&logoColor=white](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)" /\>\</a\>
+\</p\>
 
----
+-----
 
 ### 🚀 Quote of the Day
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote" />
-</p>
+\<p align="center"\>
+\<img src="[https://quotes-github-readme.vercel.app/api?type=horizontal\&theme=radical](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)" alt="Quote" /\>
+\</p\>
 
+-----
+
+### Key Changes:
+
+1.  **H3 Title:** Added **"& CS Enthusiast"** to reflect the C++ and DSA skills.
+2.  **Typing SVG:** Replaced "Open Source Contributor" with **"Competitive Programmer"** (or another suitable DSA/C++ related term).
+3.  **About Me:**
+      * Added a line about **C++** and **DSA** foundation.
+      * Updated "currently working on" to include **Competitive Programming**.
+      * Updated "Ask me about" to include **SQL/NoSQL Databases** and **DSA concepts**.
+4.  **Tech Stack:**
+      * Created a new category: **"Core Languages & Fundamentals"** to highlight **C++** and **DSA**.
+      * Updated the **"Databases"** section to include a badge for generic **SQL**.
